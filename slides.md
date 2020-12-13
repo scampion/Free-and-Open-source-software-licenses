@@ -1,7 +1,7 @@
 layout: true
 
 .header[
-.font-xs.bold.nord8.letter-spacing-60[Open-source software licenses]
+.font-xs.bold.nord8.letter-spacing-60[Free & Open-source software licenses]
 ]
 
 
@@ -15,23 +15,31 @@ layout: true
 
 ---
 class: nord-dark, center, middle
-# Free and Open-source software licenses
-<small>.letter-spacing-20[Tetra project]</small>
+# Free & Open-source software licenses
+
+#### Through different roles involved in software development 
+<br>
+<small>.letter-spacing-100[Tetra project]</small>
 ---
 
-# License & Introduction
+# License & Introduction 
+-----
+### Tool manage objective on your software usage
+<br>
 
-Tool manage objective on your software usage
 
- remember that licenses are tools,
-and different tools serve different purposes.
 
+> Keep in mind that licenses are tools 
+> and different tools serve different purposes.  
+
+
+<br>
 
 the legalese that makes it all work can be kind of confusing
 and boring and even intimidating,
 and sometimes you might think it's pointless
 
-ot only helps you see why things are the way they are,
+It only helps you see why things are the way they are,
 but actually gives you new tools, new ways to influence and control
 how your software is used, and to help you make sure
 it achieves the goals that you set for it.
@@ -45,20 +53,64 @@ it achieves the goals that you set for it.
 
 ---
 
-# Overview:
-- What is intellectual property ? 
-- Why we do need license ?
-- Permissive licenses
-- Copyleft licenses
-- Public domain
-- Customs licenses
-- Licensing contributions
+# 419 Licenses listed 
+----
+
+<iframe width="100%" height="70%" src="https://spdx.org/licenses/" allowfullscreen frameborder=”no” border=”0″ marginwidth=”0″ marginheight=”0″ scrolling=”no” allowtransparency=”yes”></iframe>
+
 
 ---
 
-# Disclaimer 
+## Incremental content
+------
 
-I'M NOT A LAWYER
+- • although it's easy to implement incremental content
+- • it seems to be dynamic
+
+--
+- • but be careful
+
+
+---
+
+# Overview:
+-----
+- • What is intellectual property ? 
+- • Why we do need license ?
+- • Permissive licenses
+- • Copyleft licenses
+- • Public domain
+- • Customs licenses
+- • Licensing contributions
+
+
+---
+
+class: nord-dark
+
+background-image: url(img/melinda-gimpel-xcVW_sFp4jQ-unsplash.jpg)
+
+## Disclaimer
+-----
+###I'M NOT A 
+
+
+---
+
+
+class: nord-dark
+
+background-image: url(img/riccardo-annandale-7e2pe9wjL9M-unsplash3.jpg)
+
+
+# What is Intellectual Property ?
+
+Intangible "creation of the mind" that lets you monopolize.
+
+The categories we'll looking today : 
+- Copyrights 
+- Patents
+- Trademarks
 
 ---
 
@@ -180,17 +232,16 @@ That is not code you can use, it's just code
 
 
 MIT/Expat/X11, ISC/n-clause BSD ...
- Apache 2.0
- 
+Apache 2.0
 
-???
- you can do pretty much whatever with the software.
+
+
+you can do pretty much whatever with the software.
 You can even build proprietary code
 on top of the the code that's been shared.
 You usually just have to provide attribution,
 meaning you have to give credit to the person who wrote it,
 and there's often
-
 
 pick a permissive license like this
 when your goal is just for the code to be shared
@@ -204,7 +255,7 @@ That's a very pragmatic approach. It's very business-friendly.
 ---
 
 # Apache 2.0 🔑  
---- 
+
 ### patent-troll-killing anti-patent-ambush clause.
 
 
@@ -219,7 +270,7 @@ That's a very pragmatic approach. It's very business-friendly.
     ... If You institute patent litigation [...] alleging that the Work [...] constitutes 
     direct or contributory patent infringement, then any patent licenses granted to 
     You [...] shall terminate 
-    
+
 
 
 ???
@@ -235,7 +286,7 @@ this is the kind of clause that I've said is really great to have
 
 
 ---
- 
+
 #  Copyleft <span class="copyleft">&copy;</span> 
 
 - Guarantee user freedom
@@ -249,17 +300,32 @@ this is the kind of clause that I've said is really great to have
 
 # LGPL 
 
-# AGPL 
+# AGPL
+
+![img](https://timreview.ca/ojs/february11/february11_daffara1.png)
+
+*Adapted from David A. Wheeler ([2007](http://www.dwheeler.com/essays/floss-license-slide.html))
+
+# ![image-20201206184359236](./img/image-20201206184359236.png)
+
+#  
 
 ---
 
+
+
+
+
 # Public domain 
+
 I don't care; do whatever! (a.k.a "What about the the Public Domain ?")
 
 - Please do pick a license
 - Visible source ≠ Free/Open source
 - Public domain
 ... remember "morals rights" ?
+
+
 
 ---
 
@@ -279,6 +345,8 @@ different from code!
 .ri-creative-commons-by-line.icon-inline[]
 .ri-creative-commons-nc-line.icon-inline[]
 .ri-creative-commons-sa-line.icon-inline[]
+
+![image-20201206183911810](./img/image-20201206183911810.png)
 
 ---
 
@@ -306,12 +374,46 @@ Pick a license
 ---
 
 ### Credits:
-
-____________________
-
-- .font-sm.nord9[Presentation: ]
-- .font-sm.nord9[Theme presentation: https://github.com/1-2-3/remark-it]
+- .font-sm.nord9[Apache License 2.0 https://www.apache.org/licenses/LICENSE-2.0]
+- .font-sm.nord9[Copyleft https://en.wikipedia.org/wiki/Copyleft]
+- .font-sm.nord9[GNU License - Free Software Foundation https://www.gnu.org/licenses/]
 - .font-sm.nord9[Felix Crux What You Need to Know About Open Source Licenses PyCon 2016]
+- .font-sm.nord9[License Compatibility https://en.wikipedia.org/wiki/License_compatibility]
+- .font-sm.nord9[Open-source license https://en.wikipedia.org/wiki/Open-source_license]
+- .font-sm.nord9[The BSD License Problem https://www.gnu.org/licenses/bsd.en.html]
+- .font-sm.nord9[Various Licenses and Comments about Them https://www.gnu.org/licenses/license-list.en.html]
+- .font-sm.nord9[Open Source Initiative Licenses & Standards https://opensource.org/licenses]
+- .font-sm.nord9[Linux Foundation SPDX License List https://spdx.org/licenses/]
+- .font-sm.nord9[The Free-Libre / Open Source Software (FLOSS) License Slide http://www.dwheeler.com/essays/floss-license-slide.html]
+- .font-sm.nord9[Apple closes down OS X https://www.macworld.co.uk/news/apple-closes-down-os-x-14663/]
+- .font-sm.nord9[Theme presentation: https://github.com/1-2-3/remark-it]
+- .font-sm.nord9[Software license https://en.wikipedia.org/wiki/Software_license]
+- .font-sm.nord9[CC0 incompliant with OSD on patents https://web.archive.org/web/20160312093735/https://lists.opensource.org/pipermail/license-review/2012-March/001679.html]
+- SQLITE Copyright https://sqlite.org/copyright.html]
 
-https://www.apache.org/licenses/LICENSE-2.0
-https://en.wikipedia.org/wiki/Copyleft
+
+---
+
+### Credits:
+- [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+- [Copyleft](https://en.wikipedia.org/wiki/Copyleft)
+- [GNU License - Free Software Foundation](https://www.gnu.org/licenses/)
+- Felix Crux What You Need to Know About Open Source Licenses PyCon 2016
+- [License Compatibility](https://en.wikipedia.org/wiki/License_compatibility)
+- [Open-source license](https://en.wikipedia.org/wiki/Open-source_license)
+- [The BSD License Problem](https://www.gnu.org/licenses/bsd.en.html)
+- [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.en.html)
+- [Open Source Initiative Licenses & Standards](https://opensource.org/licenses)
+- [Linux Foundation SPDX License List](https://spdx.org/licenses/)
+- [The Free-Libre / Open Source Software (FLOSS) License Slide](http://www.dwheeler.com/essays/floss-license-slide.html)
+- [Apple closes down OS X](https://www.macworld.co.uk/news/apple-closes-down-os-x-14663/)
+- [Theme presentation](https://github.com/1-2-3/remark-it)
+- [Software license](https://en.wikipedia.org/wiki/Software_license)
+- [CC0 incompliant with OSD on patents](https://web.archive.org/web/20160312093735/https://lists.opensource.org/pipermail/license-review/2012-March/001679.html)
+- [SQLITE Copyright](https://sqlite.org/copyright.html)
+
+
+### Photos
+<span>Photo by <a href="https://unsplash.com/@melindagimpel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Melinda Gimpel</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+
+<span>Photo by <a href="https://unsplash.com/@pavement_special?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Riccardo Annandale</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
