@@ -15,6 +15,11 @@ layout: true
 
 ---
 class: nord-dark, center, middle
+
+background-image: url(img/riccardo-annandale-7e2pe9wjL9M-unsplash3.jpg)
+
+
+
 # Free & Open-source software licenses
 
 #### Through different roles involved in software development 
@@ -22,66 +27,81 @@ class: nord-dark, center, middle
 <small>.letter-spacing-100[Tetra project]</small>
 ---
 
-# License & Introduction 
------
-### Tool manage objective on your software usage
-<br>
+# 📝 Definition 
+---------------
 
+> A software license is a legal instrument [...] governing the use or redistribution of software.
 
-
-> Keep in mind that licenses are tools 
-> and different tools serve different purposes.  
+.right.font-sm.nord9[Wikipedia]
 
 
 <br>
+It's tool to manage the software usage. 
 
-the legalese that makes it all work can be kind of confusing
-and boring and even intimidating,
-and sometimes you might think it's pointless
+> Licenses are tools and different tools serve different purposes.  
 
+<br>
+As a user, this legalese that makes it all work can be kind of confusing
+and boring and even intimidating, and sometimes you might think it's pointless
+
+???
 It only helps you see why things are the way they are,
 but actually gives you new tools, new ways to influence and control
 how your software is used, and to help you make sure
 it achieves the goals that you set for it.
 
----
-# Goals
-
-- Learn the basics of how intellectual property law;
-- Understand how licenses are built on top of those principles;
-- Enable you to work effectively with free and open source software both as a consumer
 
 ---
 
-# 419 Licenses listed 
-----
+# 👥 Who is concerned ? 
+------------------------
 
-<iframe width="100%" height="70%" src="https://spdx.org/licenses/" allowfullscreen frameborder=”no” border=”0″ marginwidth=”0″ marginheight=”0″ scrolling=”no” allowtransparency=”yes”></iframe>
+<br>
 
+### Severals roles and point of view when we are talking about licenses
+<br>
+#### **Provider** : You create a software and define the license associated
+<br>
+#### **Consumer** : You integrate several FOSS components in your developments
+<br>
+#### **Contributor** : You send back your contributions to the maintainers
+<br>
 
----
-
-## Incremental content
-------
-
-- • although it's easy to implement incremental content
-- • it seems to be dynamic
-
---
-- • but be careful
 
 
 ---
+# 🥅 Goals 
+-----------
+<br>
+- ### •  Learn the basics of how intellectual property law
+<br>
+- ### •  Understand how licenses are built on top of those principles
+<br>
+- ### •  Enable you to work effectively with free and open source software in the different roles
+---
+background-image: url(img/jeshoots-com-9n1USijYJZ4-unsplash2.jpg)
 
 # Overview:
 -----
-- • What is intellectual property ? 
-- • Why we do need license ?
-- • Permissive licenses
-- • Copyleft licenses
-- • Public domain
-- • Customs licenses
-- • Licensing contributions
+- ### • What is intellectual property ? 
+
+--
+- ### • Why we do need license ?
+
+--
+- ### • Permissive licenses
+
+--
+- ### • Copyleft licenses
+
+--
+- ### • Public domain
+
+--
+- ### • Customs licenses
+
+--
+- ### • Licensing contributions
 
 
 ---
@@ -98,54 +118,57 @@ background-image: url(img/melinda-gimpel-xcVW_sFp4jQ-unsplash.jpg)
 ---
 
 
-class: nord-dark
-
-background-image: url(img/riccardo-annandale-7e2pe9wjL9M-unsplash3.jpg)
-
-
 # What is Intellectual Property ?
+-------
+> Intangible "creation of the mind" that lets you monopolize.
 
-Intangible "creation of the mind" that lets you monopolize.
+--
 
 The categories we'll looking today : 
-- Copyrights 
-- Patents
-- Trademarks
 
----
+--
 
-# What is Intellectual Property ?
+<br>
+-  #### ◦ Copyrights 
 
-Intangible "creation of the mind" that lets you monopolize.
+--
 
-The categories we'll looking today : 
-- Copyrights 
-- Patents
-- Trademarks
+<br>
+- #### ◦ Patents
+
+--
+
+<br>
+- #### ◦ Trademarks
 
 ---
 
 # Copyright ©
+--------------
 
-- Protects creative, expressive works
-- Meant to encourage people make more
-- Given /automatically/ to the creator
-- Limited-time offer!
+- ### ◦ Protects creative, expressive works
+<br>
+- ### ◦ Meant to encourage people make more
+<br>
+- ### ◦ Given /automatically/ to the creator
+<br>
+- ### ◦ Limited-time offer!
+<br>
 
 ---
 
 # Moral Rights
+--------------
 
-- Non-commercial right related to the copyright 
-- Right to attribution, integrity of the work
-- Vary a lot from country to country
-- Might not be automatic
-- Might last forever
-- Might not be possible to waive or transfer
+- ### ◦ Non-commercial right related to the copyright 
+- ### ◦ Right to attribution, integrity of the work
+- ### ◦ Vary a lot from country to country
+- ### ◦  Might not be automatic
+- ### ◦ Might last forever
+- ### ◦ Might not be possible to waive or transfer
 
 
-
-And moral rights are sort of the non-commercial part of copyright.
+> And moral rights are sort of the non-commercial part of copyright.
 It's not so much about making money off of your creation.
 It's about things like the right to be identified as the author,
 or the right to the integrity of the work.
@@ -154,13 +177,14 @@ or presenting your work in ways that you don't like,
 like putting on a display and defacing your art,
 even if they own it.
 
-And in some countries, you cannot waive, reject,
+> And in some countries, you cannot waive, reject,
 or give away or sell your moral rights.
 It's just not allowed,
 
 ---
 
-# Patents
+# 🔬 Patents
+--------------
 
 - For protecting functional inventions
 - The deal: tell us how it works, and you get exclusivity ... for a while 
@@ -170,7 +194,9 @@ It's just not allowed,
 
 ---
 
-# Trademarks ™
+# ® Trademarks ™
+--------------
+
 
 - For protections from fakes and imitators
 - Sort of automatic, but registration® has power
@@ -178,9 +204,40 @@ It's just not allowed,
 - Still relevant to software projects 
 
 ---
+class: center, middle
+# 📜 Licenses 
+---
+
+## 🙀 419 Licenses listed by the Linux™ Foundation
+----
+
+This inventory was realize during the specification of the *Software Package Data Exchange* standard.
+
+<iframe width="100%" height="70%" src="https://spdx.org/licenses/" allowfullscreen frameborder=”no” border=”0″ marginwidth=”0″ marginheight=”0″ scrolling=”no” allowtransparency=”yes”></iframe>
+
+---
+
+## 🗄 Main categories
+------
+- ![image-20201214120221445](img/image-20201214120221445.png)
+
+
+---
+background-image: url(img/Software_Categories_expanded.svg2.png)
+---
+
+## Main categories
+------
+
+--
+- • but be careful
+
+
+---
 
 
 # Licenses 
+--------------
 
 
 - intellectual property law is a reality whether you like it or not
@@ -226,6 +283,8 @@ That is not code you can use, it's just code
 ---
 
 # Permissive Licenses
+--------------
+
 
 - Let developers do a lot ... including making things proprietary
 - Usually just require attribution ... and a warranty disclaimer 
@@ -254,22 +313,27 @@ That's a very pragmatic approach. It's very business-friendly.
 
 ---
 
-# Apache 2.0 🔑  
 
-### patent-troll-killing anti-patent-ambush clause.
-
-
+# Apache 2.0 
+--------------
 
 
-    ... each Contributor grants [...] You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, 
-    irrevocable [...] patent license to make, have made, use, [...] the Work ...
+### patent-troll-killing 🔑 anti-patent-ambush clause.
+<br>
+<br>
 
 
-    ... applies only to those patent claims [...] that are necessarily infringed by their Contribution(s) 
-    
-    ... If You institute patent litigation [...] alleging that the Work [...] constitutes 
-    direct or contributory patent infringement, then any patent licenses granted to 
-    You [...] shall terminate 
+
+>    ... each Contributor grants [...] You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, 
+>    irrevocable [...] patent license to make, have made, use, [...] the Work ...
+
+<br>
+>    ... applies only to those patent claims [...] that are necessarily infringed by their Contribution(s) 
+
+<br>
+>    ... If You institute patent litigation [...] alleging that the Work [...] constitutes 
+>    direct or contributory patent infringement, then any patent licenses granted to 
+>    You [...] shall terminate 
 
 
 
@@ -288,6 +352,8 @@ this is the kind of clause that I've said is really great to have
 ---
 
 #  Copyleft <span class="copyleft">&copy;</span> 
+--------------
+
 
 - Guarantee user freedom
 - Prevent developers from restricting or locking-in users 
@@ -317,6 +383,8 @@ this is the kind of clause that I've said is really great to have
 
 
 # Public domain 
+--------------
+
 
 I don't care; do whatever! (a.k.a "What about the the Public Domain ?")
 
@@ -329,12 +397,18 @@ I don't care; do whatever! (a.k.a "What about the the Public Domain ?")
 
 ---
 
-# Custom license 
+background-image: url(img/chris-slupski-eVSwGV-PS2Y-unsplash2.jpg)
 
-PLEASE DON'T
+# Custom license 
+--------------
+
+<br><br><br><br><br><br>
+### .center[PLEASE DON'T]
 
 ---
 # Non-Software Licenses
+------------------------
+
 
 Remember, the point of the license is to further your goals - and not-code is
 different from code!
@@ -351,6 +425,7 @@ different from code!
 ---
 
 # Licensing contributions
+-------------------------
 
 - Copyright assignment (don't except for good reason)
 - Contributor license agreement (CLA)
@@ -362,6 +437,8 @@ different from code!
 ---
 
 # Conclusions
+-------------
+
 
 Pick a license 
 ... that is already established and widely use
@@ -394,7 +471,7 @@ Pick a license
 
 ---
 
-### Credits:
+### 🔗 Credits:
 - [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
 - [Copyleft](https://en.wikipedia.org/wiki/Copyleft)
 - [GNU License - Free Software Foundation](https://www.gnu.org/licenses/)
@@ -413,7 +490,11 @@ Pick a license
 - [SQLITE Copyright](https://sqlite.org/copyright.html)
 
 
-### Photos
-<span>Photo by <a href="https://unsplash.com/@melindagimpel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Melinda Gimpel</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+--- 
 
+### 📷 Photos
+
+<span>Photo by <a href="https://unsplash.com/@melindagimpel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Melinda Gimpel</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
 <span>Photo by <a href="https://unsplash.com/@pavement_special?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Riccardo Annandale</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+<span>Photo by <a href="https://unsplash.com/@kslupski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Chris Slupski</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
+<span>Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">JESHOOTS.COM</a> on <a href="https://unsplash.com/s/photos/agenda?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
