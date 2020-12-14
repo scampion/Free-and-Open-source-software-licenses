@@ -10,8 +10,12 @@ convertr(){
     convert $1 -resize $3% $2
 }
 
+convertb() {
+    convert $1 -fill black -colorize $3% $2
+}
+
 convertw() {
-    convert $1 -fill white -colorize $2% $3
+    convert $1 -fill white -colorize $3% $2
 }
 
 convert169() {

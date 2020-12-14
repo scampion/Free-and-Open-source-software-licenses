@@ -390,6 +390,13 @@ background-image: url(img/chris-slupski-eVSwGV-PS2Y-unsplash2.jpg)
 ### .center[PLEASE DON'T]
 
 ---
+class: nord-dark, center, middle
+background-image: url(img/isaac-smith-AT77Q0Njnt0-unsplash2.jpg)
+
+# ***Trends***
+
+
+---
 class: nord-dark
 ### 📊 Top in 2019
 ---------------------------
@@ -399,38 +406,20 @@ class: nord-dark
 .right.font-sm.nord9[Source: whitesourcesoftware]
 
 ---
-
-### 📊 Distribution in 2018
----------------------------
-
-.block-middle.width-90[![](img/top2.png)]
-
----
-
-### 📊 Top 10 in 2018
----------------------------
-
-.st.st-hline.font-lg.mb-xs[
-| Rank | Name | Percent |
-| ---- | ---- | ----: |
-| 1| 	MIT License	| 32%| 
-| 2| 	GNU General Public License (GPL 2.0)	| 18%| 
-| 3| 	Apache License 2.0	| 14%| 
-| 4| 	GNU General Public License (GNU) 3.0	| 7%| 
-| 5| 	BSD License 2.0 (3-clause, New or Revised) License	| 6%| 
-| 6| 	ISC License	| 5%| 
-| 7| 	Artistic License (Perl)	| 4%| 
-| 8| GNU Lesser General Public License (LGPL) 2.1	| 4%| 
-| 9| 	GNU Lesser General Public License (LGPL) 3.0	| 2%| 
-| 10| 	Eclipse Public License (EPL)	| 1%| 
-]
-
----
 class: nord-dark
 ### 📈 Trend in 2019
 ---------------------------
 
 .block-middle.width-90[![](img/permcopyleft2.jpg)]
+
+.right.font-sm.nord9[Source: whitesourcesoftware]
+
+---
+class: nord-dark
+### 📈 Apache 2 popularity
+---------------------------
+
+.block-middle.width-90[![](img/apache2pop2.jpg)]
 
 .right.font-sm.nord9[Source: whitesourcesoftware]
 
@@ -535,7 +524,7 @@ Which Open Source Licenses Were Trending in 2019? https://resources.whitesources
 - ◦ Photo by <a href="https://unsplash.com/@kslupski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Chris Slupski</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 - ◦ Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">JESHOOTS.COM</a> on <a href="https://unsplash.com/s/photos/agenda?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 - ◦ Photo by <a href="https://unsplash.com/@umby?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Umberto</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
-
+- ◦ Photo by <a href="https://unsplash.com/@isaacmsmith?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Isaac Smith</a> on <a href="https://unsplash.com/s/photos/growth-graph?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 ]
 
 
