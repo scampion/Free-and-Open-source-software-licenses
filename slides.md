@@ -157,13 +157,13 @@ The categories we'll looking today :
 
 ---
 
-# Moral Rights
+# 🔏 Moral Rights
 --------------
 
 - ### ◦ Non-commercial right related to the copyright 
 - ### ◦ Right to attribution, integrity of the work
 - ### ◦ Vary a lot from country to country
-- ### ◦  Might not be automatic
+- ### ◦ Might not be automatic
 - ### ◦ Might last forever
 - ### ◦ Might not be possible to waive or transfer
 
@@ -183,8 +183,8 @@ It's just not allowed,
 
 ---
 
-# 🔬 Patents
---------------
+# 💡 Patents
+-------------
 
 - For protecting functional inventions
 - The deal: tell us how it works, and you get exclusivity ... for a while 
@@ -207,35 +207,6 @@ It's just not allowed,
 class: center, middle
 # 📜 Licenses 
 ---
-
-## 🙀 419 Licenses listed by the Linux™ Foundation
-----
-
-This inventory was realize during the specification of the *Software Package Data Exchange* standard.
-
-<iframe width="100%" height="70%" src="https://spdx.org/licenses/" allowfullscreen frameborder=”no” border=”0″ marginwidth=”0″ marginheight=”0″ scrolling=”no” allowtransparency=”yes”></iframe>
-
----
-
-## 🗄 Main categories
-------
-- ![image-20201214120221445](img/image-20201214120221445.png)
-
-
----
-background-image: url(img/Software_Categories_expanded.svg2.png)
----
-
-## Main categories
-------
-
---
-- • but be careful
-
-
----
-
-
 # Licenses 
 --------------
 
@@ -282,6 +253,24 @@ That is not code you can use, it's just code
 
 ---
 
+## 🙀 419 Licenses listed by the Linux™ Foundation
+---------------------------------------------------
+
+This inventory was realize during the specification of the *Software Package Data Exchange* standard.
+
+<iframe width="100%" height="70%" src="https://spdx.org/licenses/" allowfullscreen frameborder=”no” border=”0″ marginwidth=”0″ marginheight=”0″ scrolling=”no” allowtransparency=”yes”></iframe>
+
+---
+
+## 🗄 Main categories
+----------------------
+
+.block-middle.width-70[![](img/image-20201214120221445.png)]
+
+---
+background-image: url(img/Software_Categories_expanded.svg2.png)
+---
+
 # Permissive Licenses
 --------------
 
@@ -314,11 +303,11 @@ That's a very pragmatic approach. It's very business-friendly.
 ---
 
 
-# Apache 2.0 
---------------
+# 🔓 Apache 2.0 
+-----------------
 
 
-### patent-troll-killing 🔑 anti-patent-ambush clause.
+### 🔑 patent-troll-killing  anti-patent-ambush clause.  
 <br>
 <br>
 
@@ -351,40 +340,35 @@ this is the kind of clause that I've said is really great to have
 
 ---
 
-#  Copyleft <span class="copyleft">&copy;</span> 
---------------
+#  <span class="copyleft">&copy; </span> Copyleft  
+----------------------------------------------------
+
+- ### ◦ Guarantee user freedom
 
 
-- Guarantee user freedom
-- Prevent developers from restricting or locking-in users 
-- Require sharing derivatives the same way
-- Prevent building proprietary software
+>Freedom 0 : the freedom to use the work
 
----
+>Freedom 1 : the freedom to study the work
 
-# GPL 
+>Freedom 2 : the freedom to copy and share the work with others
 
-# LGPL 
+>Freedom 3 : the freedom to modify the work, and the freedom to distribute modified and therefore derivative works
 
-# AGPL
-
-![img](https://timreview.ca/ojs/february11/february11_daffara1.png)
-
-*Adapted from David A. Wheeler ([2007](http://www.dwheeler.com/essays/floss-license-slide.html))
-
-# ![image-20201206184359236](./img/image-20201206184359236.png)
-
-#  
+- ### ◦ Prevent developers from restricting or locking-in users 
+- ### ◦ Require sharing derivatives the same way 🦠
+- ### ◦ Prevent building proprietary software
+<br>
+### .center[***GPL, LGPL, AGPL***]
 
 ---
+background-image: url(img/february11_daffara2.png) 
+### Compliance 
+-----------
+Adapted from David A. Wheeler ([2007](http://www.dwheeler.com/essays/floss-license-slide.html))
 
-
-
-
-
-# Public domain 
---------------
-
+---
+# 🌍 Public domain 
+------------------
 
 I don't care; do whatever! (a.k.a "What about the the Public Domain ?")
 
@@ -406,10 +390,55 @@ background-image: url(img/chris-slupski-eVSwGV-PS2Y-unsplash2.jpg)
 ### .center[PLEASE DON'T]
 
 ---
-# Non-Software Licenses
+class: nord-dark
+### 📊 Top in 2019
+---------------------------
+
+.block-middle.width-90[![](img/toplicences2.jpg)]
+
+.right.font-sm.nord9[Source: whitesourcesoftware]
+
+---
+
+### 📊 Distribution in 2018
+---------------------------
+
+.block-middle.width-90[![](img/top2.png)]
+
+---
+
+### 📊 Top 10 in 2018
+---------------------------
+
+.st.st-hline.font-lg.mb-xs[
+| Rank | Name | Percent |
+| ---- | ---- | ----: |
+| 1| 	MIT License	| 32%| 
+| 2| 	GNU General Public License (GPL 2.0)	| 18%| 
+| 3| 	Apache License 2.0	| 14%| 
+| 4| 	GNU General Public License (GNU) 3.0	| 7%| 
+| 5| 	BSD License 2.0 (3-clause, New or Revised) License	| 6%| 
+| 6| 	ISC License	| 5%| 
+| 7| 	Artistic License (Perl)	| 4%| 
+| 8| GNU Lesser General Public License (LGPL) 2.1	| 4%| 
+| 9| 	GNU Lesser General Public License (LGPL) 3.0	| 2%| 
+| 10| 	Eclipse Public License (EPL)	| 1%| 
+]
+
+---
+class: nord-dark
+### 📈 Trend in 2019
+---------------------------
+
+.block-middle.width-90[![](img/permcopyleft2.jpg)]
+
+.right.font-sm.nord9[Source: whitesourcesoftware]
+
+---
+background-image: url(img/umberto-lhJrm1BRVV0-unsplash2.jpg)
+
+# 📄 Non-Software Licenses
 ------------------------
-
-
 Remember, the point of the license is to further your goals - and not-code is
 different from code!
 
@@ -420,18 +449,26 @@ different from code!
 .ri-creative-commons-nc-line.icon-inline[]
 .ri-creative-commons-sa-line.icon-inline[]
 
-![image-20201206183911810](./img/image-20201206183911810.png)
+.float-right.width-27.pt-xxs.pl-xs[![](./img/image-20201206183911810.png)]
 
 ---
 
-# Licensing contributions
--------------------------
+# 🤝 Licensing contributions
+-----------------------------
 
 - Copyright assignment (don't except for good reason)
 - Contributor license agreement (CLA)
 (depends entirely on what it says) 
 - Developer's Certificate of Origin (DCO)
 (really good! minimal hassle!)
+
+
+---
+
+### 🔬 Software Heritage Confidential Scanner
+----------------------------------------------
+https://scan.certcode.eu
+<iframe width="100%" height="70%" src="https://scan.certcode.eu" allowfullscreen frameborder=”no” border=”0″ marginwidth=”0″ marginheight=”0″ scrolling=”no” allowtransparency=”yes”></iframe>
 
 
 ---
@@ -450,51 +487,55 @@ Pick a license
 
 ---
 
-### Credits:
-- .font-sm.nord9[Apache License 2.0 https://www.apache.org/licenses/LICENSE-2.0]
-- .font-sm.nord9[Copyleft https://en.wikipedia.org/wiki/Copyleft]
-- .font-sm.nord9[GNU License - Free Software Foundation https://www.gnu.org/licenses/]
-- .font-sm.nord9[Felix Crux What You Need to Know About Open Source Licenses PyCon 2016]
-- .font-sm.nord9[License Compatibility https://en.wikipedia.org/wiki/License_compatibility]
-- .font-sm.nord9[Open-source license https://en.wikipedia.org/wiki/Open-source_license]
-- .font-sm.nord9[The BSD License Problem https://www.gnu.org/licenses/bsd.en.html]
-- .font-sm.nord9[Various Licenses and Comments about Them https://www.gnu.org/licenses/license-list.en.html]
-- .font-sm.nord9[Open Source Initiative Licenses & Standards https://opensource.org/licenses]
-- .font-sm.nord9[Linux Foundation SPDX License List https://spdx.org/licenses/]
-- .font-sm.nord9[The Free-Libre / Open Source Software (FLOSS) License Slide http://www.dwheeler.com/essays/floss-license-slide.html]
-- .font-sm.nord9[Apple closes down OS X https://www.macworld.co.uk/news/apple-closes-down-os-x-14663/]
-- .font-sm.nord9[Theme presentation: https://github.com/1-2-3/remark-it]
-- .font-sm.nord9[Software license https://en.wikipedia.org/wiki/Software_license]
-- .font-sm.nord9[CC0 incompliant with OSD on patents https://web.archive.org/web/20160312093735/https://lists.opensource.org/pipermail/license-review/2012-March/001679.html]
-- SQLITE Copyright https://sqlite.org/copyright.html]
+##### 🔗 Webography
+--------------------
+.font-xs.nord9[
+Apache License 2.0 https://www.apache.org/licenses/LICENSE-2.0
+
+Copyleft https://en.wikipedia.org/wiki/Copyleft
+
+GNU License - Free Software Foundation https://www.gnu.org/licenses/
+
+Felix Crux What You Need to Know About Open Source Licenses PyCon 2016
+
+License Compatibility https://en.wikipedia.org/wiki/License_compatibility
+
+Open-source license https://en.wikipedia.org/wiki/Open-source_license
+
+The BSD License Problem https://www.gnu.org/licenses/bsd.en.html
+
+Various Licenses and Comments about Them https://www.gnu.org/licenses/license-list.en.html
+
+Open Source Initiative Licenses & Standards https://opensource.org/licenses
+
+Linux Foundation SPDX License List https://spdx.org/licenses/
+
+The Free-Libre / Open Source Software (FLOSS) License Slide http://www.dwheeler.com/essays/floss-license-slide.html
+
+Apple closes down OS X https://www.macworld.co.uk/news/apple-closes-down-os-x-14663/
+
+Theme presentation: https://github.com/1-2-3/remark-it
+
+Software license https://en.wikipedia.org/wiki/Software_license
+
+CC0 incompliant with OSD on patents https://web.archive.org/web/20160312093735/https://lists.opensource.org/pipermail/license-review/2012-March/001679.html
+
+SQLITE Copyright https://sqlite.org/copyright.html
+
+Top Open-Source Licenses https://web.archive.org/web/20160719043600/https://www.blackducksoftware.com/top-open-source-licenses
+
+Which Open Source Licenses Were Trending in 2019? https://resources.whitesourcesoftware.com/blog-whitesource/open-source-licenses-trends-and-predictions
+<br>
+<br>
+
+##### 📷 Credits 
+--------------
+- ◦ Photo by <a href="https://unsplash.com/@melindagimpel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Melinda Gimpel</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+- ◦ Photo by <a href="https://unsplash.com/@pavement_special?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Riccardo Annandale</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+- ◦ Photo by <a href="https://unsplash.com/@kslupski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Chris Slupski</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+- ◦ Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">JESHOOTS.COM</a> on <a href="https://unsplash.com/s/photos/agenda?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+- ◦ Photo by <a href="https://unsplash.com/@umby?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Umberto</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
+
+]
 
 
----
-
-### 🔗 Credits:
-- [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
-- [Copyleft](https://en.wikipedia.org/wiki/Copyleft)
-- [GNU License - Free Software Foundation](https://www.gnu.org/licenses/)
-- Felix Crux What You Need to Know About Open Source Licenses PyCon 2016
-- [License Compatibility](https://en.wikipedia.org/wiki/License_compatibility)
-- [Open-source license](https://en.wikipedia.org/wiki/Open-source_license)
-- [The BSD License Problem](https://www.gnu.org/licenses/bsd.en.html)
-- [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.en.html)
-- [Open Source Initiative Licenses & Standards](https://opensource.org/licenses)
-- [Linux Foundation SPDX License List](https://spdx.org/licenses/)
-- [The Free-Libre / Open Source Software (FLOSS) License Slide](http://www.dwheeler.com/essays/floss-license-slide.html)
-- [Apple closes down OS X](https://www.macworld.co.uk/news/apple-closes-down-os-x-14663/)
-- [Theme presentation](https://github.com/1-2-3/remark-it)
-- [Software license](https://en.wikipedia.org/wiki/Software_license)
-- [CC0 incompliant with OSD on patents](https://web.archive.org/web/20160312093735/https://lists.opensource.org/pipermail/license-review/2012-March/001679.html)
-- [SQLITE Copyright](https://sqlite.org/copyright.html)
-
-
---- 
-
-### 📷 Photos
-
-<span>Photo by <a href="https://unsplash.com/@melindagimpel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Melinda Gimpel</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-<span>Photo by <a href="https://unsplash.com/@pavement_special?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Riccardo Annandale</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-<span>Photo by <a href="https://unsplash.com/@kslupski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Chris Slupski</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
-<span>Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">JESHOOTS.COM</a> on <a href="https://unsplash.com/s/photos/agenda?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>
