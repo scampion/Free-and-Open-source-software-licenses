@@ -25,6 +25,12 @@ background-image: url(img/riccardo-annandale-7e2pe9wjL9M-unsplash3.jpg)
 #### Through different roles involved in software development 
 <br>
 <small>.letter-spacing-100[Tetra project]</small>
+<br>
+<br>
+<br>
+
+
+.letter-spacing-60[DRAFT VERSION]
 ---
 
 # 📝 Definition 
