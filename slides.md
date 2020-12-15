@@ -59,8 +59,8 @@ it achieves the goals that you set for it.
 
 ---
 
-# 👥 Who is concerned ? 
-------------------------
+# 👥 Actors
+-----------
 
 <br>
 
@@ -89,7 +89,9 @@ background-image: url(img/jeshoots-com-9n1USijYJZ4-unsplash2.jpg)
 
 # Overview:
 -----
-- ### • What is intellectual property ? 
+
+
+- ### • The intellectual property landscape
 
 --
 - ### • Why we do need license ?
@@ -105,6 +107,15 @@ background-image: url(img/jeshoots-com-9n1USijYJZ4-unsplash2.jpg)
 
 --
 - ### • Customs licenses
+
+--
+- ### • Trends in the license usage
+
+--
+- ### • Non-Software Licenses
+
+--
+- ### • Source code scanner and tooling
 
 --
 - ### • Licensing contributions
