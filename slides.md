@@ -19,14 +19,24 @@ class: nord-dark, center, middle
 
 background-image: url(img/riccardo-annandale-7e2pe9wjL9M-unsplash3.jpg)
 
-
+<br>
+<br>
+<br>
 
 # Free & Open-source software licenses
+<br>
 
 #### Through different roles involved in software development 
 
-.block-middle.width-100[![](img/logo2.png)]
+<br>
 .letter-spacing-100[DRAFT VERSION]
+<br>
+<br>
+<br>
+<br>
+.float-right.width-0.pt-xxs.pl-xs[![](img/logo2.png)]
+
+
 
 ---
 
@@ -61,7 +71,7 @@ it achieves the goals that you set for it.
 
 <br>
 
-### Severals roles and point of views when we are talking about licenses
+### Several roles and point of views when we are talking about licenses
 <br>
 #### **Provider** : You create a software and define the license associated
 <br>
@@ -73,14 +83,14 @@ it achieves the goals that you set for it.
 
 
 ---
-# 🥅 Goals 
+# 🚀 Goals 
 -----------
 <br>
-- ### •  Learn the basics of how intellectual property law
+- ### •  Learning the basics of how intellectual property law works
 <br>
-- ### •  Understand how licenses are built on top of those principles
+- ### •  Understanding how licenses are built on top of those principles
 <br>
-- ### •  Enable you to work effectively with free and open source software in the different roles
+- ### •  Working effectively with free and open source software in the different roles
 ---
 background-image: url(img/jeshoots-com-9n1USijYJZ4-unsplash2.jpg)
 
@@ -160,7 +170,7 @@ for being resized).
 
 --
 
-The categories we'll looking today : 
+The categories we will be looking at today : 
 
 --
 
@@ -184,7 +194,7 @@ The categories we'll looking today :
 
 - ### ◦ Protects creative, expressive works
 <br>
-- ### ◦ Meant to encourage people make more
+- ### ◦ Meant to encourage people making more
 <br>
 - ### ◦ Given /automatically/ to the creator
 <br>
@@ -203,7 +213,7 @@ The categories we'll looking today :
 - ### ◦ Might last forever
 - ### ◦ Might not be possible to waive or transfer
 
-
+???
 > And moral rights are sort of the non-commercial part of copyright.
 It's not so much about making money off of your creation.
 It's about things like the right to be identified as the author,
@@ -225,7 +235,7 @@ It's just not allowed,
 - For protecting functional inventions
 - The deal: tell us how it works, and you get exclusivity ... for a while 
 - Beware of sneaky troll and ambushes !
-- Some license protect you 
+- Some licenses protect you 
 
 
 ---
@@ -238,7 +248,7 @@ It's just not allowed,
 <br>
 - ####◦  Sort of automatic, but registration® has power
 <br>
-- ####◦  Covers names, logos and identifiers like that
+- ####◦  Covers names, logos and identifiers
 <br>
 - ####◦  Still relevant to software projects 
 <br>
@@ -251,30 +261,30 @@ class: center, middle
 # 📜 Licenses 
 ---
 # Licenses 
---------------
-
-
+-------------
 - Intellectual property law is a reality whether you like it or not
-
 > A license is a set of permissions that you give to someone.
-
+<br>
 - #### Grant rights people wouldn't usually have:
-
 - #####◦ To use
 - #####◦ To modify 
 - #####◦ To share 
 
-When you create something like a piece of software, you alone have the right to it, and you have control
-over how to share those rights with others.
-And a license is what we use to give people rights they wouldn't ordinarily have, like the right to use the software,
-to modify it, or to copy and share it.
 
+<br>
 - #### Create obligations:
 - #####◦ Attribution 
 - #####◦ Share-alike (copy left)
 - #####◦ Whatever shows up in a proprietary license
 
 ???
+
+When you create something like a piece of software, you alone have the right to it, and you have control
+over how to share those rights with others.
+A license is what we use to give people rights they wouldn't ordinarily have, as the right to use the software,
+to modify it, or to copy and share it.
+
+
 The most obvious example is of course proprietary software,
 which generally has a license that only gives you the right to use it,
 but prohibits you not just from copying and sharing it,
@@ -298,7 +308,7 @@ That is not code you can use, it's just code
 ## 🙀 419 Licenses listed by the Linux™ Foundation
 ---------------------------------------------------
 
-This inventory was realize during the specification of the *Software Package Data Exchange* standard.
+This inventory was made during the specification of the *Software Package Data Exchange* standard.
 
 <iframe width="100%" height="70%" src="https://spdx.org/licenses/" allowfullscreen frameborder=”no” border=”0″ marginwidth=”0″ marginheight=”0″ scrolling=”no” allowtransparency=”yes”></iframe>
 
@@ -325,13 +335,13 @@ background-image: url(img/Software_Categories_expanded.svg2.png)
 
 
 
-As a *producer* pick a permissive license like this when your goal is just for the code to be shared and used as widely as possible.
-You're trying to make life as easy as possible for developers by making everything available to them for whatever use they want,
+As a *producer*, choose a permissive license when your goal is only for the code to be shared and used as widely as possible.
+You would then make life as easy as possible for developers by making everything available to them for whatever use they want,
 even if they don't want to reciprocate by sharing their improvements back to you.
 That's a very pragmatic approach. It's very business-friendly.
 
-As a *consumer*, permissive licenses are the most easy to use. A short note about the original BSD license, before 1999, 
-don't forget the "advertising clause". 
+As a *consumer*, permissive licenses are the most easy to use.
+About the original BSD license, before 1999, it contains a controversy "advertising clause", don't forget it. 
 
 
 <br>
@@ -382,7 +392,7 @@ this is the kind of clause that I've said is really great to have
 #  <span class="copyleft">&copy; </span> Copyleft  
 ----------------------------------------------------
 
-- ### ◦ Guarantee user freedom
+- ### ◦ Guarantees user freedom
 
 
 >Freedom 0 : the freedom to use the work
@@ -393,9 +403,9 @@ this is the kind of clause that I've said is really great to have
 
 >Freedom 3 : the freedom to modify the work, and the freedom to distribute modified and therefore derivative works
 
-- ### ◦ Prevent developers from restricting or locking-in users 
-- ### ◦ Require sharing derivatives the same way
-- ### ◦ Prevent building proprietary software
+- ### ◦ Prevents developers from restricting or locking-in users 
+- ### ◦ Requires sharing derivatives the same way
+- ### ◦ Prevents building proprietary software
 <br>
 ### .center[***GPL, LGPL, AGPL***]
 
@@ -410,23 +420,19 @@ Adapted from David A. Wheeler ([2007](http://www.dwheeler.com/essays/floss-licen
 --------------------------------------
 
 .float-right.width-47.pt-xxs.pl-xs[![](img/mb2.jpeg)]
-As the owner of the software, you can choose distribute it
-
- under several licenses. 
+Reminder: as the owner of the software, you can choose to distribute it under several licenses. 
 
 > MySQL is free and open-source software under the 
 > terms of the GNU General Public License,
 > and is also available under a variety of proprietary licenses.
 
 <br>
-⚠️ You should manage the contributions to stay proprietary.
+⚠️ You should manage the contributions to keep the full copyright.
 
 ----- 
 
 
-If you do not redistribute the software, certain clauses 
-
-are not relevant. 
+If you do not redistribute the software, some clauses are not relevant. 
 
 ⚠️ Network license like AGPL and API 
 
@@ -537,12 +543,15 @@ https://scan.certcode.eu
 -------------
 
 
-Pick a license 
-... that is already established and widely use
-... that make sense within your community
-... that is appropriate to the nature of the work
-... and that furthers your goals for the software 
-
+##### As provider, pick a license :
+- ##### ◦ ... that is already established and widely use
+- ##### ◦ ... that makes sense within your community
+- ##### ◦ ... that is appropriate to the nature of the work
+- ##### ◦ ... and that furthers your goals for the software 
+ <br>
+##### As consumer:
+- ##### ◦ ... uses well known licenses
+- ##### ◦ ... manage your software bill of materials in you lifecycle development.
 
 
 ---
