@@ -13,6 +13,7 @@ layout: true
 .ri-creative-commons-sa-line.icon-inline.nord8[]
 ]]
 
+
 ---
 class: nord-dark, center, middle
 
@@ -23,14 +24,10 @@ background-image: url(img/riccardo-annandale-7e2pe9wjL9M-unsplash3.jpg)
 # Free & Open-source software licenses
 
 #### Through different roles involved in software development 
-<br>
-<small>.letter-spacing-100[Tetra project]</small>
-<br>
-<br>
-<br>
 
+.block-middle.width-100[![](img/logo2.png)]
+.letter-spacing-100[DRAFT VERSION]
 
-.letter-spacing-60[DRAFT VERSION]
 ---
 
 # 📝 Definition 
@@ -215,10 +212,14 @@ It's just not allowed,
 --------------
 
 
-- For protections from fakes and imitators
-- Sort of automatic, but registration® has power
-- Covers names, logos and identifiers like that
-- Still relevant to software projects 
+- ####◦  For protections from fakes and imitators
+<br>
+- ####◦  Sort of automatic, but registration® has power
+<br>
+- ####◦  Covers names, logos and identifiers like that
+<br>
+- ####◦  Still relevant to software projects 
+<br>
 
 ---
 class: center, middle
@@ -228,15 +229,19 @@ class: center, middle
 --------------
 
 
-- intellectual property law is a reality whether you like it or not
+- Intellectual property law is a reality whether you like it or not
 
-A license is a set of permissions that you give to someone.
+> A license is a set of permissions that you give to someone.
 
-Grant rights people wouldn't usually have:
-- To use
-- To modify 
-- To share 
+<br>
 
+- #### Grant rights people wouldn't usually have:
+
+- #####◦ To use
+- #####◦ To modify 
+- #####◦ To share 
+
+<br>
 When you create something like a piece of software,
 you alone have the right to it, and you have control
 over how to share those rights with others.
@@ -296,9 +301,7 @@ background-image: url(img/Software_Categories_expanded.svg2.png)
 - Usually just require attribution ... and a warranty disclaimer 
 
 
-MIT/Expat/X11, ISC/n-clause BSD ...
-Apache 2.0
-
+MIT/Expat/X11, ISC/n-clause BSD ... Apache 2.0
 
 
 you can do pretty much whatever with the software.
@@ -543,5 +546,10 @@ Which Open Source Licenses Were Trending in 2019? https://resources.whitesources
 - ◦ Photo by <a href="https://unsplash.com/@umby?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Umberto</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 - ◦ Photo by <a href="https://unsplash.com/@isaacmsmith?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Isaac Smith</a> on <a href="https://unsplash.com/s/photos/growth-graph?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 ]
+
+
+---
+
+The information contained in this presentation shall not be considered as the official position of the European Commission and/or the TETRA Consortium partners. Neither the TETRA Consortium partners, nor the European Commission, nor any person acting on behalf of the European Commission or the TETRA Consortium is responsible for the use, which might be made of this presentation.
 
 
