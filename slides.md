@@ -258,15 +258,12 @@ class: center, middle
 
 > A license is a set of permissions that you give to someone.
 
-<br>
-
 - #### Grant rights people wouldn't usually have:
 
 - #####◦ To use
 - #####◦ To modify 
 - #####◦ To share 
 
-<br>
 When you create something like a piece of software, you alone have the right to it, and you have control
 over how to share those rights with others.
 And a license is what we use to give people rights they wouldn't ordinarily have, like the right to use the software,
@@ -437,13 +434,16 @@ are not relevant.
 ---
 # 🌍 Public domain 
 ------------------
+.float-right.width-40.pt-xxs.pl-xs[![](img/sqlite2.png)]
+.float-left.width-13.pt-xxs.pr-xs[![](img/pd2.png)]
 
-I don't care; do whatever! (a.k.a "What about the the Public Domain ?")
-
-- Please do pick a license
-- Visible source ≠ Free/Open source
-- Public domain
-... remember "morals rights" ?
+- ##### ◦ I don't care; do whatever! (a.k.a "What about the the Public Domain ?")
+<br>
+- ##### ◦ As *provider*, please do pick a license
+<br>
+- ##### ◦ Visible source ≠ Free/Open source
+<br>
+- ##### ◦ Public domain ... remember "morals rights" ?
 
 
 
@@ -465,7 +465,6 @@ background-image: url(img/isaac-smith-AT77Q0Njnt0-unsplash2.jpg)
 
 
 ---
-class: nord-dark
 ### 📊 Top in 2019
 ---------------------------
 
@@ -474,7 +473,6 @@ class: nord-dark
 .right.font-sm.nord9[Source: whitesourcesoftware]
 
 ---
-class: nord-dark
 ### 📈 Trend in 2019
 ---------------------------
 
@@ -483,7 +481,6 @@ class: nord-dark
 .right.font-sm.nord9[Source: whitesourcesoftware]
 
 ---
-class: nord-dark
 ### 📈 Apache 2 popularity
 ---------------------------
 
@@ -496,28 +493,34 @@ background-image: url(img/umberto-lhJrm1BRVV0-unsplash2.jpg)
 
 # 📄 Non-Software Licenses
 ------------------------
-Remember, the point of the license is to further your goals - and not-code is
-different from code!
+.float-right.width-45.pt-xxs.pl-xs[![](./img/image-20201206183911810.png)]
 
-- GNU Free Documentation License (GFDL)
-- Creative Commons (BY, NC, ND, SA)
-.ri-creative-commons-line.icon-inline[]
-.ri-creative-commons-by-line.icon-inline[]
-.ri-creative-commons-nc-line.icon-inline[]
-.ri-creative-commons-sa-line.icon-inline[]
+- ##### ◦ Remember, the point of the license is to further your goals - and not-code is different from code!
 
-.float-right.width-27.pt-xxs.pl-xs[![](./img/image-20201206183911810.png)]
+<br>
+- ##### ◦  GNU Free Documentation License (GFDL)
+- ##### ◦ .ri-creative-commons-line.icon-inline[] Creative Commons (BY, NC, ND, SA)
+## .ri-creative-commons-by-line.icon-inline[] Attribution
+## .ri-creative-commons-nc-line.icon-inline[] Non Commercial
+## .ri-creative-commons-nd-line.icon-inline[] No derivative works
+## .ri-creative-commons-sa-line.icon-inline[] Share alike
+
 
 ---
 
 # 🤝 Licensing contributions
 -----------------------------
 
-- Copyright assignment (don't except for good reason)
-- Contributor license agreement (CLA)
-(depends entirely on what it says) 
-- Developer's Certificate of Origin (DCO)
-(really good! minimal hassle!)
+- #### ◦ [Copyright Transfer Agreement (CTA)](https://en.wikipedia.org/wiki/Copyright_transfer_agreement)
+<br>
+- #### ◦ [Contributor License agreement (CLA)](https://en.wikipedia.org/wiki/Contributor_License_Agreement)
+<br>
+- #### ◦ [Developer's Certificate of Origin (DCO)](https://en.wikipedia.org/wiki/Developer_Certificate_of_Origin)
+<br>
+<br>
+
+.center[Project Harmony by Canonical]
+.center[http://harmonyagreements.org/]
 
 
 ---
