@@ -61,7 +61,7 @@ it achieves the goals that you set for it.
 
 <br>
 
-### Severals roles and point of view when we are talking about licenses
+### Severals roles and point of views when we are talking about licenses
 <br>
 #### **Provider** : You create a software and define the license associated
 <br>
@@ -130,7 +130,29 @@ background-image: url(img/melinda-gimpel-xcVW_sFp4jQ-unsplash.jpg)
 
 
 ---
+background-image: url(img/Bliss.png)
+class: center, middle
+class: center, middle
 
+# **IP Landscape**
+<br>
+<br>
+<br>
+<br>
+
+
+
+.font-sm.nord4[
+Microsoft product screenshot
+<br>
+This image is a copyrighted screenshot of a commercially released computer software product of Microsoft Corporation.
+Microsoft Corporation has allowed screenshots of its commercially released computer software products to be used in 
+advertising, documentations, educational materials, videos and web sites as long as they are not obscene or 
+pornographic, are not disparaging, defamatory, or libelous to Microsoft, and are not digitally altered (except 
+for being resized).
+]
+
+---
 
 # What is Intellectual Property ?
 -------
@@ -221,6 +243,9 @@ It's just not allowed,
 - ####◦  Still relevant to software projects 
 <br>
 
+Debian and Mozilla - a study in trademarks - https://lwn.net/Articles/118268/
+.block-middle.width-30[![](img/mozdeb2.png)]
+
 ---
 class: center, middle
 # 📜 Licenses 
@@ -242,17 +267,15 @@ class: center, middle
 - #####◦ To share 
 
 <br>
-When you create something like a piece of software,
-you alone have the right to it, and you have control
+When you create something like a piece of software, you alone have the right to it, and you have control
 over how to share those rights with others.
-And a license is what we use to give people rights
-they wouldn't ordinarily have, like the right to use the software,
+And a license is what we use to give people rights they wouldn't ordinarily have, like the right to use the software,
 to modify it, or to copy and share it.
 
-Create obligations:
-- Attribution 
-- Share-alike (copy left)
-- Whatever shows up in a proprietary license
+- #### Create obligations:
+- #####◦ Attribution 
+- #####◦ Share-alike (copy left)
+- #####◦ Whatever shows up in a proprietary license
 
 ???
 The most obvious example is of course proprietary software,
@@ -297,49 +320,48 @@ background-image: url(img/Software_Categories_expanded.svg2.png)
 --------------
 
 
-- Let developers do a lot ... including making things proprietary
-- Usually just require attribution ... and a warranty disclaimer 
+- #####◦  Let developers do a lot ... including making things proprietary
+- #####◦  Usually just require attribution ... and a warranty disclaimer 
+<br>
+##### .center[***MIT/Expat/X11, ISC/n-clause BSD ... Apache 2.0***]
+<br>
 
 
-MIT/Expat/X11, ISC/n-clause BSD ... Apache 2.0
 
-
-you can do pretty much whatever with the software.
-You can even build proprietary code
-on top of the the code that's been shared.
-You usually just have to provide attribution,
-meaning you have to give credit to the person who wrote it,
-and there's often
-
-pick a permissive license like this
-when your goal is just for the code to be shared
-and used as widely as possible.
-You're trying to make life as easy as possible for developers
-by making everything available to them for whatever use they want,
-even if they don't want to reciprocate
-by sharing their improvements back to you.
+As a *producer* pick a permissive license like this when your goal is just for the code to be shared and used as widely as possible.
+You're trying to make life as easy as possible for developers by making everything available to them for whatever use they want,
+even if they don't want to reciprocate by sharing their improvements back to you.
 That's a very pragmatic approach. It's very business-friendly.
 
+As a *consumer*, permissive licenses are the most easy to use. A short note about the original BSD license, before 1999, 
+don't forget the "advertising clause". 
+
+
+<br>
+A use case in 2006 : **Mac OS X Kernel Source Now Closed** https://slashdot.org/story/06/05/17/1453206/mac-os-x-kernel-source-now-closed  
+
+???
+> You can do pretty much whatever with the software.
+You can even build proprietary code on top of the the code that's been shared.
+You usually just have to provide attribution, meaning you have to give credit to the person who wrote it, and there's often
+???
 ---
-
-
 # 🔓 Apache 2.0 
 -----------------
-
-
-### 🔑 patent-troll-killing  anti-patent-ambush clause.  
 <br>
+- ####◦ anti-patent-ambush clause.  
+- ####◦ key patent-troll-killing. 
 <br>
-
-
 
 >    ... each Contributor grants [...] You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, 
 >    irrevocable [...] patent license to make, have made, use, [...] the Work ...
 
 <br>
+
 >    ... applies only to those patent claims [...] that are necessarily infringed by their Contribution(s) 
 
 <br>
+
 >    ... If You institute patent litigation [...] alleging that the Work [...] constitutes 
 >    direct or contributory patent infringement, then any patent licenses granted to 
 >    You [...] shall terminate 
@@ -375,7 +397,7 @@ this is the kind of clause that I've said is really great to have
 >Freedom 3 : the freedom to modify the work, and the freedom to distribute modified and therefore derivative works
 
 - ### ◦ Prevent developers from restricting or locking-in users 
-- ### ◦ Require sharing derivatives the same way 🦠
+- ### ◦ Require sharing derivatives the same way
 - ### ◦ Prevent building proprietary software
 <br>
 ### .center[***GPL, LGPL, AGPL***]
@@ -385,6 +407,32 @@ background-image: url(img/february11_daffara2.png)
 ### Compliance 
 -----------
 Adapted from David A. Wheeler ([2007](http://www.dwheeler.com/essays/floss-license-slide.html))
+
+---
+# ✖ Multi licenses and distribution
+--------------------------------------
+
+.float-right.width-47.pt-xxs.pl-xs[![](img/mb2.jpeg)]
+As the owner of the software, you can choose distribute it
+
+ under several licenses. 
+
+> MySQL is free and open-source software under the 
+> terms of the GNU General Public License,
+> and is also available under a variety of proprietary licenses.
+
+<br>
+⚠️ You should manage the contributions to stay proprietary.
+
+----- 
+
+
+If you do not redistribute the software, certain clauses 
+
+are not relevant. 
+
+⚠️ Network license like AGPL and API 
+
 
 ---
 # 🌍 Public domain 
