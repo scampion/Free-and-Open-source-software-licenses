@@ -499,6 +499,8 @@ Pick a license
 ##### 🔗 Webography
 --------------------
 .font-xs.nord9[
+NGI TETRA https://www.ngi.eu/ngi-projects/tetra/
+
 Apache License 2.0 https://www.apache.org/licenses/LICENSE-2.0
 
 Copyleft https://en.wikipedia.org/wiki/Copyleft
@@ -534,11 +536,19 @@ SQLITE Copyright https://sqlite.org/copyright.html
 Top Open-Source Licenses https://web.archive.org/web/20160719043600/https://www.blackducksoftware.com/top-open-source-licenses
 
 Which Open Source Licenses Were Trending in 2019? https://resources.whitesourcesoftware.com/blog-whitesource/open-source-licenses-trends-and-predictions
-<br>
-<br>
+]
+
+---
+
+##### 📢 Disclaimer
+--------------------
+> The information contained in this presentation shall not be considered as the official position of the European Commission and/or the TETRA Consortium partners. Neither the TETRA Consortium partners, nor the European Commission, nor any person acting on behalf of the European Commission or the TETRA Consortium is responsible for the use, which might be made of this presentation.
+ 
+<br><br>
 
 ##### 📷 Credits 
 --------------
+.font-xs.nord9[
 - ◦ Photo by <a href="https://unsplash.com/@melindagimpel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Melinda Gimpel</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 - ◦ Photo by <a href="https://unsplash.com/@pavement_special?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Riccardo Annandale</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
 - ◦ Photo by <a href="https://unsplash.com/@kslupski?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Chris Slupski</a> on <a href="https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>
@@ -550,6 +560,5 @@ Which Open Source Licenses Were Trending in 2019? https://resources.whitesources
 
 ---
 
-The information contained in this presentation shall not be considered as the official position of the European Commission and/or the TETRA Consortium partners. Neither the TETRA Consortium partners, nor the European Commission, nor any person acting on behalf of the European Commission or the TETRA Consortium is responsible for the use, which might be made of this presentation.
 
 
