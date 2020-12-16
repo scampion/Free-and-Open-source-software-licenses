@@ -29,13 +29,15 @@ background-image: url(img/riccardo-annandale-7e2pe9wjL9M-unsplash3.jpg)
 #### Through different roles involved in software development 
 
 <br>
-.letter-spacing-100[DRAFT VERSION]
+
 <br>
 <br>
 <br>
 <br>
 .float-right.width-0.pt-xxs.pl-xs[![](img/logo2.png)]
 
+???
+.letter-spacing-100[DRAFT VERSION]
 
 
 ---
@@ -196,10 +198,12 @@ The categories we will be looking at today :
 <br>
 - ### ◦ Meant to encourage people making more
 <br>
-- ### ◦ Given /automatically/ to the creator
+- ### ◦ Given /automatically/ to the creator - [Berne Convention 1986](https://wipolex.wipo.int/en/text/283698#P109_16834)
 <br>
 - ### ◦ Limited-time offer!
 <br>
+.center[###It protects two types of rights :]
+.center[###*Economic* rights and *Moral* rights]
 
 ---
 
@@ -232,10 +236,10 @@ It's just not allowed,
 # 💡 Patents
 -------------
 
-- For protecting functional inventions
-- The deal: tell us how it works, and you get exclusivity ... for a while 
-- Beware of sneaky troll and ambushes !
-- Some licenses protect you 
+- ####◦  For protecting functional inventions
+- ####◦ The deal: tell us how it works, and you get exclusivity ... for a while 
+- ####◦  Beware of sneaky troll and ambushes !
+- ####◦ Some licenses protect you 
 
 
 ---
