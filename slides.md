@@ -236,9 +236,9 @@ It's just not allowed,
 # 💡 Patents
 -------------
 
-- ####◦  For protecting functional inventions
-- ####◦ The deal: tell us how it works, and you get exclusivity ... for a while 
-- ####◦  Beware of sneaky troll and ambushes !
+- ####◦ For protecting functional inventions
+- ####◦ The deal: tell us how it works, and you get *exclusivity* ... for a while 
+- ####◦ Beware of sneaky troll and ambushes !
 - ####◦ Some licenses protect you 
 
 
