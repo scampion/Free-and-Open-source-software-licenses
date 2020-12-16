@@ -240,7 +240,10 @@ It's just not allowed,
 - ####◦ The deal: tell us how it works, and you get *exclusivity* ... for a while 
 - ####◦ Beware of sneaky troll and ambushes !
 - ####◦ Some licenses protect you 
-
+<br>
+<br>
+<br>
+.center[### FFMPEG and multimedia codecs patents  http://ffmpeg.org/legal.html]
 
 ---
 
