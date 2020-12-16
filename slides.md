@@ -75,7 +75,7 @@ it achieves the goals that you set for it.
 
 ### Several roles and point of views when we are talking about licenses
 <br>
-#### **Provider** : You create a software and define the license associated
+#### **Producer** : You create a software and define the license associated
 <br>
 #### **Consumer** : You integrate several FOSS components in your developments
 <br>
@@ -449,7 +449,7 @@ If you do not redistribute the software, some clauses are not relevant.
 
 - ##### ◦ I don't care; do whatever! (a.k.a "What about the the Public Domain ?")
 <br>
-- ##### ◦ As *provider*, please do pick a license
+- ##### ◦ As *producer*, please do pick a license
 <br>
 - ##### ◦ Visible source ≠ Free/Open source
 <br>
@@ -547,7 +547,7 @@ https://scan.certcode.eu
 -------------
 
 
-##### As provider, pick a license :
+##### As producer, pick a license :
 - ##### ◦ ... that is already established and widely use
 - ##### ◦ ... that makes sense within your community
 - ##### ◦ ... that is appropriate to the nature of the work
