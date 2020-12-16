@@ -23,7 +23,7 @@ background-image: url(img/riccardo-annandale-7e2pe9wjL9M-unsplash3.jpg)
 <br>
 <br>
 
-# Free & Open-source software licenses
+# [Free & Open-source software licenses](https://github.com/scampion/Free-and-Open-source-software-licenses/archive/main.zip)
 <br>
 
 #### Through different roles involved in software development 
@@ -34,6 +34,7 @@ background-image: url(img/riccardo-annandale-7e2pe9wjL9M-unsplash3.jpg)
 <br>
 <br>
 <br>
+
 .float-right.width-0.pt-xxs.pl-xs[![](img/logo2.png)]
 
 ???
